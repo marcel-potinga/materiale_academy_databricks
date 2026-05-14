@@ -2,7 +2,7 @@
 
 bank.csv è un dataset sui customer di una banca; la documentazione la trovate su kaggle. https://www.kaggle.com/datasets/kidoen/bank-customers-data
 
-Fraud.csv è un dataset su transazioni bancarie; la documentazione la trovate su kaggle. https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
+Fraud.csv è un dataset su transazioni bancarie; va scaricato da Kaggle in quanto supera le dim max di git. https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
 
 **FILE PY**
 
